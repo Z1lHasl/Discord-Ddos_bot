@@ -1,0 +1,9 @@
+!npm i fake-useragent
+!npm i axios
+!npm i cluster
+!npm i request
+!npm i cloudscraper
+!pip install discord
+!pip install psutil
+!pip install slot
+!python bot.py
